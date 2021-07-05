@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 	"github.com/stretchr/testify/require"
-	api "github.com/blindjustis/api/log_v1"
+	api "github.com/blindjustis/proglog/api/log_v1"
 )
 
 func TestSegment(t *testing.T) {
